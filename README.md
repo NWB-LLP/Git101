@@ -1,5 +1,5 @@
 # Git101
-Learning Git Basics - Useful Links - Value Added Course (VAC)
+Git Basics - Useful Links: Value Added Course (VAC)
 
 
 ## Introducing Yourself to Git Via SSH
